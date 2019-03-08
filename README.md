@@ -1,3 +1,3 @@
 # friendly-collab-party
 
-Testing GitHub
+know how to use GitHub to create a shared document 
